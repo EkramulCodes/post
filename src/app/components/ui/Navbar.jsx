@@ -12,7 +12,7 @@ export default function Navbar() {
         <FiBookOpen className="text-green-400 w-7 h-7" />
 
         <h1 className="text-2xl font-bold text-emerald-400">
-          Storyfy
+          Thought's
         </h1>
       </Link>
 
